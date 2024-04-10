@@ -1,0 +1,1 @@
+command to add notes -> node app.js add --title="things to buy" --body="hello" 

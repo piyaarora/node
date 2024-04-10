@@ -1,0 +1,3 @@
+./job-portal/node_modules/
+./notes-app/.env
+./notes-app/node_modules
